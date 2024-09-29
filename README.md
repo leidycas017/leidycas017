@@ -9,6 +9,7 @@ As I continue my journey in this carreer, I am always on the lookout for collabo
 
 - LinkedIn: https://www.linkedin.com/in/leidy-castaño-castaño-ing-sistemas
 
+
 ## Technologies
 - **Back-End**: Java, Spring Boot, SQL, NoSQL
 - **Front-End**: Angular, React, HTML, CSS, TypeScript
@@ -31,3 +32,6 @@ I configure production environments, leverage cloud services like AWS for reliab
 
 ### Project Management
 I apply Scrum methodology to manage and deliver projects, facilitate teamwork and communication among project members, and define clear objectives to ensure successful project completion.
+
+### Hobbies
+In my free time, I enjoy practicing Pilates, hiking, and spending quality time with my family and pet.
