@@ -33,5 +33,5 @@ I configure production environments, leverage cloud services like AWS for reliab
 ### Project Management
 I apply Scrum methodology to manage and deliver projects, facilitate teamwork and communication among project members, and define clear objectives to ensure successful project completion.
 
-### Hobbies
+## Hobbies
 In my free time, I enjoy practicing Pilates, hiking, and spending quality time with my family and pet.
